@@ -1,0 +1,9 @@
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\bin\Debug\세미나_조한준_과제2.exe.config
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\obj\Debug\세미나_조한준_과제2.csprojResolveAssemblyReference.cache
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\obj\Debug\세미나_조한준_과제2.Form1.resources
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\obj\Debug\세미나_조한준_과제2.Properties.Resources.resources
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\obj\Debug\세미나_조한준_과제2.csproj.GenerateResource.Cache
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\bin\Debug\세미나_조한준_과제2.exe
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\bin\Debug\세미나_조한준_과제2.pdb
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\obj\Debug\세미나_조한준_과제2.exe
+C:\Users\82105\Desktop\세미나_조한준_과제2\세미나_조한준_과제2\obj\Debug\세미나_조한준_과제2.pdb
